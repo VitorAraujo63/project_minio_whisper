@@ -1,0 +1,5 @@
+certifi
+urllib3
+argon2-cffi
+pycryptodome
+typing-extensions
