@@ -1,0 +1,1 @@
+Esse arquivo foi adicionado para testar diferentes branchs em um projeto
